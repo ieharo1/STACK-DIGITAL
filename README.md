@@ -1,23 +1,33 @@
-# STACK-DIGITAL
+# 💻 STACK DIGITAL
 
-## Descripción
+Proyecto digital innovador diseñado para soluciones tecnológicas modernas desarrollado por **Isaac Esteban Haro Torres**.
+
+---
+
+## 📝 Descripción
 
 Proyecto digital innovador diseñado para soluciones tecnológicas modernas.
 
-## Características
+---
+
+## ✨ Características
 
 - Arquitectura moderna y escalable
 - Implementación de tecnologías de vanguardia
 - Diseño responsive y optimizado
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: Node.js
 - Base de datos: MongoDB
 - Deployment: Docker
 
-## Instalación
+---
+
+## 🚀 Instalación
 
 ```bash
 # Clonar el repositorio
@@ -31,20 +41,19 @@ npm install
 npm start
 ```
 
-## Contribución
+---
 
-1. Fork del repositorio
-2. Crear feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit de cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push al branch (`git push origin feature/AmazingFeature`)
-5. Abrir Pull Request
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-## Autor
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-🧑‍💻 **Isaac Haro**
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+---
 
-## Licencia
+## 📄 Licencia
 
-MIT — contribuciones bienvenidas 🚀
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
