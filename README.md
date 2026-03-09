@@ -190,12 +190,6 @@ GitHub         ██████
 - ✅ Contenedores y Orquestación
 - ✅ APIs RESTful
 
----
-
-## 🤝 Contribuciones
-
-¿Tienes sugerencias para mejorar los ejemplos?
-¡Abre un issue o pull request!
 
 ---
 
